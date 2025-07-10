@@ -51,8 +51,7 @@ The full assignment is available as a PDF:
 1.⁠ ⁠*Clone this repository*
 
    ⁠ bash
-   git clone https://github.com/RizwanSaifi571/Prompt-Engineering-Nursing-Admission-Flow.git
-   cd Prompt-Engineering-Nursing-Admission-Flow
+   git clone https://github.com/vishalyadav0987/LIA-Plus-Assignment.git
     ⁠
 2.⁠ ⁠*Open the PDF*
 
@@ -90,9 +89,9 @@ The full assignment is available as a PDF:
 
 *Rizwan Saifi*
 
-•⁠  ⁠GitHub: [@RizwanSaifi571](https://github.com/RizwanSaifi571)
-•⁠  ⁠LinkedIn: [in/rizwansaifi2614](https://linkedin.com/in/rizwansaifi2614)
-•⁠  ⁠Portfolio: [rizwansaifi571.github.io](https://rizwansaifi571.github.io)
+•⁠  ⁠GitHub: [@Vishalyadav0987](https://github.com/vishalyadav0987)
+•⁠  ⁠LinkedIn: [in/vishalyadav](nkedin.com/in/vishal-yadav-831049254/)
+•⁠  ⁠Portfolio: [Vishalyadav.github.io](https://portfolio-fiverr-1.onrender.com/)
 
 ---
 
