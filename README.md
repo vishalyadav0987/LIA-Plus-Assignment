@@ -5,7 +5,7 @@
 
 A professional, structured conversational flow designed to guide prospective B.Sc. Nursing students through the admission process at LiaPlus AI. This repository contains the full assignment in PDF format, along with this README providing context, usage instructions, and highlights of the design.
 
-![UI Preview](lia.jpeg)
+![UI Preview](/Readme_License/lia.jpeg)
 
 ---
 
